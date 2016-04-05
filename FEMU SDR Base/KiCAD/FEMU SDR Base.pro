@@ -1,4 +1,4 @@
-update=Monday, 04 April 2016 'PMt' 03:51:47 PM
+update=Tue 05 Apr 2016 13:08:12 SAST
 version=1
 last_client=kicad
 [pcbnew]
@@ -23,6 +23,8 @@ ModuleOutlineThickness=0.150000000000
 [cvpcb]
 version=1
 NetIExt=net
+[general]
+version=1
 [eeschema]
 version=1
 LibDir=
@@ -56,5 +58,4 @@ LibName26=opto
 LibName27=atmel
 LibName28=contrib
 LibName29=valves
-[general]
-version=1
+LibName30=ARB_lib
