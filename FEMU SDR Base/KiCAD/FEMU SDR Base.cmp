@@ -1,0 +1,83 @@
+Cmp-Mod V01 Created by PcbNew   date = Tue 12 Apr 2016 14:53:12 SAST
+
+BeginCmp
+TimeStamp = 570CEB29
+Path = /5703ADE8
+Reference = C1;
+ValeurCmp = 10u;
+IdModule  = Capacitors_SMD:C_0805_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 570CEB2F
+Path = /5703AE4B
+Reference = C2;
+ValeurCmp = 10u;
+IdModule  = Capacitors_SMD:C_0805_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 570CEB35
+Path = /5703B087
+Reference = C3;
+ValeurCmp = 0.1u;
+IdModule  = Capacitors_SMD:C_0805_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 570CEB3B
+Path = /5703B4E6
+Reference = C4;
+ValeurCmp = 33u;
+IdModule  = Capacitors_SMD:C_1206_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 570CEB41
+Path = /5703BAB5
+Reference = C5;
+ValeurCmp = 33u;
+IdModule  = Capacitors_SMD:C_1206_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 570CEB47
+Path = /5703B202
+Reference = L1;
+ValeurCmp = 4.7u;
+IdModule  = ARB_foots:L_Wurth_74404052039;
+EndCmp
+
+BeginCmp
+TimeStamp = 570CEB4D
+Path = /5703B2B6
+Reference = R1;
+ValeurCmp = 10k;
+IdModule  = Resistors_SMD:R_0805_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 570CEB53
+Path = /5703C072
+Reference = R2;
+ValeurCmp = 10k;
+IdModule  = Resistors_SMD:R_0805_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 570CEB59
+Path = /5703C16C
+Reference = R3;
+ValeurCmp = 56k;
+IdModule  = Resistors_SMD:R_0805_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 570CEB63
+Path = /5703A8E6
+Reference = U1;
+ValeurCmp = TPS562209;
+IdModule  = ARB_foots:TPS562209;
+EndCmp
+
+EndListe
