@@ -1018,4 +1018,6 @@ Wire Wire Line
 	8450 3500 8450 3650
 Wire Wire Line
 	8450 2700 8450 2850
+Text Notes 8300 3350 0    60   ~ 0
+Add extra 1uFs on PCB
 $EndSCHEMATC
