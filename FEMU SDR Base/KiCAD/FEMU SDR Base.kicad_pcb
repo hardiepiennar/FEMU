@@ -3,7 +3,7 @@
   (general
     (links 260)
     (no_connects 179)
-    (area 2.059561 2.092061 166.982639 167.015139)
+    (area -15.999999 2.092061 187 174.700001)
     (thickness 1.6)
     (drawings 250)
     (tracks 84)
@@ -1089,7 +1089,7 @@
   )
 
   (module ARB_foots:SDR_Shield_75x50mm (layer F.Cu) (tedit 572B25B6) (tstamp 572B1F84)
-    (at 117.9 84.5)
+    (at 119.05 84.6)
     (path /57225014)
     (fp_text reference P3 (at 0 40.75) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.15)))
