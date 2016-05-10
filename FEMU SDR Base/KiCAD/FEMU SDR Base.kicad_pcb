@@ -420,7 +420,7 @@
   )
 
   (module TO_SOT_Packages_SMD:SOT-23 (layer F.Cu) (tedit 5729B50B) (tstamp 57289601)
-    (at 34 75.5)
+    (at 35.5 61)
     (descr "SOT-23, Standard")
     (tags SOT-23)
     (path /57227CCE)
@@ -453,8 +453,8 @@
     )
   )
 
-  (module TO_SOT_Packages_SMD:SOT-23 (layer F.Cu) (tedit 5729B689) (tstamp 57289608)
-    (at 102.5 62.5)
+  (module TO_SOT_Packages_SMD:SOT-23 (layer F.Cu) (tedit 5731EA08) (tstamp 57289608)
+    (at 104 61)
     (descr "SOT-23, Standard")
     (tags SOT-23)
     (path /57284FA7)
@@ -462,7 +462,7 @@
     (fp_text reference U3 (at 0 -2.25) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text value SDR_2_LDO_1_2V (at 0 -5) (layer F.Fab)
+    (fp_text value SDR_2_LDO_1_2V (at 0 -4) (layer F.Fab)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_line (start -1.65 -1.6) (end 1.65 -1.6) (layer F.CrtYd) (width 0.05))
@@ -488,7 +488,7 @@
   )
 
   (module TO_SOT_Packages_SMD:SOT-23 (layer F.Cu) (tedit 5729B54B) (tstamp 5728960F)
-    (at 34 87.5)
+    (at 35 74)
     (descr "SOT-23, Standard")
     (tags SOT-23)
     (path /57227D3B)
@@ -521,8 +521,8 @@
     )
   )
 
-  (module TO_SOT_Packages_SMD:SOT-23 (layer F.Cu) (tedit 5729B67C) (tstamp 57289616)
-    (at 102.5 75.5)
+  (module TO_SOT_Packages_SMD:SOT-23 (layer F.Cu) (tedit 5731EA18) (tstamp 57289616)
+    (at 104 74)
     (descr "SOT-23, Standard")
     (tags SOT-23)
     (path /57285033)
@@ -530,7 +530,7 @@
     (fp_text reference U5 (at 0 -2.25) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text value SDR_2_LDO_3_3V (at 0 -4.5) (layer F.Fab)
+    (fp_text value SDR_2_LDO_3_3V (at 0 -4) (layer F.Fab)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_line (start -1.65 -1.6) (end 1.65 -1.6) (layer F.CrtYd) (width 0.05))
@@ -643,7 +643,7 @@
   )
 
   (module Capacitors_SMD:C_0805_HandSoldering (layer F.Cu) (tedit 541A9B8D) (tstamp 5728970A)
-    (at 29.5 76 270)
+    (at 30.5 61.5 270)
     (descr "Capacitor SMD 0805, hand soldering")
     (tags "capacitor 0805")
     (path /572909BF)
@@ -672,7 +672,7 @@
   )
 
   (module Capacitors_SMD:C_0805_HandSoldering (layer F.Cu) (tedit 541A9B8D) (tstamp 57289710)
-    (at 98 63 90)
+    (at 99 61.5 90)
     (descr "Capacitor SMD 0805, hand soldering")
     (tags "capacitor 0805")
     (path /57291F83)
@@ -701,7 +701,7 @@
   )
 
   (module Capacitors_SMD:C_0805_HandSoldering (layer F.Cu) (tedit 541A9B8D) (tstamp 57289716)
-    (at 33.5 80 180)
+    (at 35 66 180)
     (descr "Capacitor SMD 0805, hand soldering")
     (tags "capacitor 0805")
     (path /57291A87)
@@ -730,7 +730,7 @@
   )
 
   (module Capacitors_SMD:C_0805_HandSoldering (layer F.Cu) (tedit 541A9B8D) (tstamp 5728971C)
-    (at 102 67.5)
+    (at 104 66)
     (descr "Capacitor SMD 0805, hand soldering")
     (tags "capacitor 0805")
     (path /5729205C)
@@ -759,7 +759,7 @@
   )
 
   (module Capacitors_SMD:C_0805_HandSoldering (layer F.Cu) (tedit 541A9B8D) (tstamp 57289722)
-    (at 29.5 88 270)
+    (at 30 74.5 270)
     (descr "Capacitor SMD 0805, hand soldering")
     (tags "capacitor 0805")
     (path /57291B22)
@@ -788,7 +788,7 @@
   )
 
   (module Capacitors_SMD:C_0805_HandSoldering (layer F.Cu) (tedit 541A9B8D) (tstamp 57289728)
-    (at 98 76 90)
+    (at 99 74.5 90)
     (descr "Capacitor SMD 0805, hand soldering")
     (tags "capacitor 0805")
     (path /572921A1)
@@ -817,7 +817,7 @@
   )
 
   (module Capacitors_SMD:C_0805_HandSoldering (layer F.Cu) (tedit 541A9B8D) (tstamp 5728972E)
-    (at 33.5 92 180)
+    (at 34.5 79 180)
     (descr "Capacitor SMD 0805, hand soldering")
     (tags "capacitor 0805")
     (path /57291E8E)
@@ -846,7 +846,7 @@
   )
 
   (module Capacitors_SMD:C_0805_HandSoldering (layer F.Cu) (tedit 541A9B8D) (tstamp 57289734)
-    (at 102 80.5)
+    (at 103.5 79)
     (descr "Capacitor SMD 0805, hand soldering")
     (tags "capacitor 0805")
     (path /57292237)
@@ -875,7 +875,7 @@
   )
 
   (module Capacitors_SMD:C_0805_HandSoldering (layer F.Cu) (tedit 541A9B8D) (tstamp 5729B4C7)
-    (at 113 52.5 270)
+    (at 112 53 270)
     (descr "Capacitor SMD 0805, hand soldering")
     (tags "capacitor 0805")
     (path /5729D4AD)
@@ -904,7 +904,7 @@
   )
 
   (module Capacitors_SMD:C_0805_HandSoldering (layer F.Cu) (tedit 541A9B8D) (tstamp 5729B4D3)
-    (at 107 52.5 270)
+    (at 106 53 270)
     (descr "Capacitor SMD 0805, hand soldering")
     (tags "capacitor 0805")
     (path /5729D4B3)
@@ -933,7 +933,7 @@
   )
 
   (module Capacitors_SMD:C_0805_HandSoldering (layer F.Cu) (tedit 541A9B8D) (tstamp 5729B4DF)
-    (at 101 52.5 270)
+    (at 100.5 53 270)
     (descr "Capacitor SMD 0805, hand soldering")
     (tags "capacitor 0805")
     (path /5729D4B9)
