@@ -186,10 +186,10 @@ U 1 1 572239A5
 P 1100 2950
 F 0 "P1" H 1100 3100 50  0000 C CNN
 F 1 "Battery" V 1200 2950 50  0000 C CNN
-F 2 "" H 1100 2950 50  0001 C CNN
+F 2 "Misc footprints:XT60" H 1100 2950 50  0001 C CNN
 F 3 "" H 1100 2950 50  0000 C CNN
 	1    1100 2950
-	-1   0    0    -1  
+	-1   0    0    1   
 $EndComp
 $Comp
 L +12V #PWR03
@@ -1249,8 +1249,6 @@ Wire Wire Line
 	1550 2550 1550 4850
 Connection ~ 1550 2900
 Wire Wire Line
-	1300 3000 1650 3000
-Wire Wire Line
 	1650 2650 1650 5150
 Wire Wire Line
 	1650 3200 1750 3200
@@ -1338,4 +1336,23 @@ Wire Wire Line
 Connection ~ 3900 1550
 Wire Wire Line
 	4200 1550 4200 1450
+$Comp
+L CONN_01X02 P35
+U 1 1 5736ACD2
+P 1100 3450
+F 0 "P35" H 1100 3600 50  0000 C CNN
+F 1 "Battery" V 1200 3450 50  0000 C CNN
+F 2 "Misc footprints:XT60" H 1100 3450 50  0001 C CNN
+F 3 "" H 1100 3450 50  0000 C CNN
+	1    1100 3450
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	1300 3400 1550 3400
+Connection ~ 1550 3400
+Wire Wire Line
+	1300 3500 1650 3500
+Connection ~ 1650 3500
+Wire Wire Line
+	1300 3000 1650 3000
 $EndSCHEMATC
