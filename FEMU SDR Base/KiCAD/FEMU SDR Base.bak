@@ -1610,31 +1610,43 @@ Wire Wire Line
 Wire Wire Line
 	4350 5300 4850 5300
 $Comp
-L CONN_01X03 P?
+L CONN_01X03 P21
 U 1 1 57374773
 P 4100 2650
-F 0 "P?" H 4100 2850 50  0000 C CNN
+F 0 "P21" H 4100 2850 50  0000 C CNN
 F 1 "SDR0" V 4200 2650 50  0000 C CNN
-F 2 "" H 4100 2650 50  0000 C CNN
+F 2 "Misc footprints:USB" H 4100 2650 50  0001 C CNN
 F 3 "" H 4100 2650 50  0000 C CNN
 	1    4100 2650
 	-1   0    0    1   
 $EndComp
 $Comp
-L CONN_01X03 P?
+L CONN_01X03 P22
 U 1 1 573748BC
-P 4100 3150
-F 0 "P?" H 4100 3350 50  0000 C CNN
-F 1 "SDR1" V 4200 3150 50  0000 C CNN
-F 2 "" H 4100 3150 50  0000 C CNN
-F 3 "" H 4100 3150 50  0000 C CNN
-	1    4100 3150
+P 4100 3200
+F 0 "P22" H 4100 3400 50  0000 C CNN
+F 1 "SDR1" V 4200 3200 50  0000 C CNN
+F 2 "Misc footprints:USB" H 4100 3200 50  0001 C CNN
+F 3 "" H 4100 3200 50  0000 C CNN
+	1    4100 3200
 	-1   0    0    1   
 $EndComp
 Text Notes 4000 2450 0    60   ~ 0
 SDR USB distribution\n\n
 Text Notes 4000 2450 0    60   ~ 0
 SDR USB distribution\n\n
-Text Notes 4450 2950 0    60   ~ 0
+Text Notes 4600 2950 0    60   ~ 0
 Antheun, add feedthroughs \nand choke here
+Text Notes 4350 3300 0    60   ~ 0
+D+\n
+Text Notes 4350 3200 0    60   ~ 0
+D-\n
+Text Notes 4350 3100 0    60   ~ 0
+GND
+Text Notes 4350 2800 0    60   ~ 0
+D+\n
+Text Notes 4350 2700 0    60   ~ 0
+D-\n
+Text Notes 4350 2600 0    60   ~ 0
+GND
 $EndSCHEMATC

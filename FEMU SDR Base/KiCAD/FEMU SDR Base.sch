@@ -1060,12 +1060,10 @@ Wire Wire Line
 Connection ~ 3900 700 
 Wire Wire Line
 	3900 1150 3900 1550
-Wire Wire Line
-	2300 1550 4200 1550
 Connection ~ 3900 1350
 Connection ~ 3350 1100
 Wire Wire Line
-	3350 1100 3350 1350
+	3350 1100 3350 1500
 Wire Wire Line
 	3250 1350 3600 1350
 Wire Wire Line
@@ -1258,8 +1256,6 @@ Connection ~ 9350 3100
 Wire Wire Line
 	4200 700  4200 750 
 Connection ~ 3900 1550
-Wire Wire Line
-	4200 1550 4200 1450
 $Comp
 L CONN_01X02 P35
 U 1 1 5736ACD2
@@ -1649,4 +1645,11 @@ Text Notes 4350 2700 0    60   ~ 0
 D-\n
 Text Notes 4350 2600 0    60   ~ 0
 GND
+Wire Wire Line
+	3900 1550 2300 1550
+Wire Wire Line
+	3350 1500 4200 1500
+Connection ~ 4200 1500
+Wire Wire Line
+	4200 1500 4200 1450
 $EndSCHEMATC
