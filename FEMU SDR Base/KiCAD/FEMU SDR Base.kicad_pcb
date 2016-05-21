@@ -22,7 +22,7 @@
     (33 F.Adhes user hide)
     (34 B.Paste user hide)
     (35 F.Paste user hide)
-    (36 B.SilkS user hide)
+    (36 B.SilkS user)
     (37 F.SilkS user hide)
     (38 B.Mask user)
     (39 F.Mask user hide)
@@ -2416,7 +2416,7 @@
   )
 
   (module "Misc footprints:MPS_LOGO_Flipped" (layer B.SilkS) (tedit 0) (tstamp 573882A4)
-    (at 110.25 77.5 135)
+    (at 95.5 65.75 135)
     (fp_text reference G*** (at 0 31.40964 135) (layer B.SilkS) hide
       (effects (font (thickness 0.3048)))
     )
